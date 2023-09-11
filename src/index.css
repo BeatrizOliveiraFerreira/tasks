@@ -1,0 +1,52 @@
+*{
+    background: linear-gradient(0deg, #333333, #333333),
+    linear-gradient(0deg, #262626, #262626);
+
+}
+.lixeira {
+    float: right;
+    margin-right: 9rem;
+    margin-top: 1.2rem;
+    cursor: pointer;
+}
+input {
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF);    
+    margin-left: 11rem;
+    margin-top: 3rem;
+    margin-right: 2rem;
+    padding: 1.2rem 26rem;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.descrever {
+    margin-left: 11rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    padding: 1.2rem 26rem 20rem;
+}
+
+.criar {
+    width: Fixed (104px);
+    height: Fixed (39px);
+    top: 687px;
+    /* left: 938px; */
+    padding: 1rem 2.2rem;
+    border-radius: 8px;
+    gap: 8px;
+    background: #1E9F4A;
+    color:#F2F2F2;
+    cursor: pointer;
+    float: right;
+    margin-right: 10.5rem;
+    margin-top: 1.2rem;
+}
+
+.criar:hover {
+    background-color: #0a3a1a;
+}
